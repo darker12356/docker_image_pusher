@@ -1,6 +1,4 @@
-kubesphere/fluent-bit:v1.9.4
-opensearchproject/opensearch:2.6.0
-kubesphere/devops-apiserver:ks-v3.4.1
+kubesphere/devops-controller
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
