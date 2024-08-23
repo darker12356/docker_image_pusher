@@ -1,5 +1,6 @@
-ghcr.io/dexidp/dex:v2.30.2
-redis:6.2.6-alpine
+kubesphere/ks-installer:v3.4.1
+#ghcr.io/dexidp/dex:v2.30.2
+#redis:6.2.6-alpine
 #kubesphere/ks-apiserver:v3.3.1
 #kubesphere/kube-state-metrics:v2.5.0
 #支持私库
